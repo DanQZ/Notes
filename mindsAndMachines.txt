@@ -1,0 +1,159 @@
+day 3
+
+What is perspective?
+	-typically involves processing info at location, space, and time
+
+Egocentric perceptions
+	-spectator POV as center of action
+
+AI Training
+	-machine learning algorithms
+		-input -> extremely deep layers of neural links of the stuff in the input -> output
+	-types of machine learning
+		-supervised: task driven = tries to predict th next thing
+			-distinguish between dogs and wolves: train off pictures of dogs and wolves
+				-mistake: overfitting: learned if there is snow, it's a wolf. it's there's no snow, it's a dog
+				-the mistake was caused by skewed picture data
+		-unsupervised: data driven = identifies clusters of stuff
+		-reinforcement: learn from mistakes = figure things out on its own
+			-give positive reinforcement when it is doing something right
+			-works well with emotional beings who can like things, such as food
+
+Phases of AI (supervised)
+	-model design
+		-create task and goals, create data sets, model definition
+	-training
+		-learns probabilities between features and classifiers
+		-dataset has a feature space =
+	-validation
+		-
+	-model selection
+		-
+	-testing
+		-image -> image features -> trained classifier -> prediction of what the image is
+
+Subjective perspective
+	-not only what we are aware of
+	-includes unconscious things like presuppositions, unacknowledged motivations, etc
+	-not all perspectives are equal: a doctor's perspective on a medical issue is more weighty than mine is
+
+Types of egocentric info
+	-episodic memory
+		-what happened to me?
+		-what did i do?
+		-where did i leave my keys?
+	-forecasting
+		-what will i do next?
+	-action/perception integration
+		-using what you see to help you make actions: hand/eye coordination
+	-audio/visual diarization
+		-who said what and when did they say it?
+	-social interaction
+		-who is interacting with who?
+
+
+
+--------------------
+
+day 2
+
+subjective perspective
+	-1st, 2nd, and 3rd persion perspectives
+	
+	-do other animals have the same type of "perspective" as humans?
+		-they must do things like represent its location: occupy the space they exist in
+
+	-"perspective" includes at least these things: location, time, and some sort of psychological background
+		-way we represent ourselves: many complex ways self-representation can exist
+		-not just a mental state in some context
+		-what determines subjective perspective vs the perspective itself
+	
+	-some facts are only accessed from sub pers
+		-ex: colorblind person knows everything about colors, but has never seen colors.
+			-is there something more to actually seeing colors?
+			-question can only be answered from first person subjective perspective
+	
+	-are you conscious of your own subjective perspective?
+		-most people think you aren't conscious of most things
+		-conceptual vs nonconceptual
+
+	-perspective vs relativism
+		-just because people interpret the world from perspective, doesn't mean reality is relative to their perspectives
+		-there exist objective things such as math: "2+2=4"
+		-can you adopt someone else's perspective?
+			-huge amount involved, other's circumstances, experiences, etc.
+		-all of above are separate questions
+
+
+-first person perspective
+	-locked into our own perspectives
+	-statements that include "indexicals" such as "i", "here", and "now" are only true relatively
+
+-"de se" content
+	-types of self representation
+	-what does "conceptual" mean?
+		-conceptual: "specific and intelligent info?"
+			-mental representations
+			-stereotypes
+			-functional roles: 
+			-inferential roles: "'red' means color, not green, it is not a noun, etc."
+		-nonconceptual: "unspecific and abstract info?"
+			-image-like representations: 
+			-map-like representations: 
+		-why perceptual content is nonconceptually structured
+			-unintelligent animals have perceptions but not concepts -> perceptual content cant be conceptually structured
+				-they can see things but not draw external conclusions and info from these things
+
+	-Peacocke's 3 levels of "de se" content
+		-degree 0 "de hinc" AKA "here" content
+			-does not represent self beyond occupying space you exist in (rocks and water and stuff?)
+			-
+		-degree 1 nonconceptual de se content
+			-represent self but not aware of self (unintelligent life, bacteria, bugs?)
+			-thoughts without thoughts about self: "Im thirsty" -> does not need concept of self
+		-degree 2 conceptual de se content
+			-thing has some sort of concept of self (intelligent life: humans, dolphins?)
+	
+	-"here content" AKA "de hinc" AKA "degree 0" content
+		-map with no labels
+			-no info about where you are
+		-map with an unlabelled dot on it
+			-no info about where you are
+		-map with a dot labelled in a non-indexical way such as "pog"
+			-know where "pog" is but not where you are
+		-map with a dot labelled "here"
+			-know where the map is?
+		-map with a dot labelled "me"
+			-know where you are
+
+-ownership levels?
+	-physical
+		-raw info and interactions
+	-information processing/algorithmic
+		-how to interpret physical, such as pain and stuff
+	-mental state
+		-experience the pain
+	
+-self location
+	-"here" content without de se content
+	-primitive representation where higher levels are grounded
+	-implies consciousness without requiring self-consciousness:
+		-something can experience pain without bein aware it is experiencing pain
+
+-accuracy conditions
+	-what does it take for something tobe accurate?
+	-here content: location of subject and environment determine accuracy conditions
+		-"there is an apple" -> nothing is relevant besides location
+	-de se content: subject itself affects conditions
+		-person 1 says "i see apple" is true if person 1 sees apple
+		-person 2 says "i see apple" is true if person 2 sees apple
+
+-where to draw the line between self and not self?
+	-is nervous system part of self?
+	-there are parts of cognitive processing we do not access, evolutionary instincts and stuff
+
+
+
+--------------------
+
+day 1
