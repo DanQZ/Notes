@@ -15,7 +15,68 @@ Variance in properties with perceptual conditions
 		-properties of consciousness 
 		-properties of environment 
 	
-	
+								Invariant properties	variant properties 
+external mind independent		intrinsic properties	perspectival properties
+mind dependent					constancy properties	appearance properties 
+
+Properties
+	-intrinsic
+		- 
+	-constancy 
+		-represenations of intrinsic properties, analyzed by our awareness of them
+	-perspectival 
+		-situation dependent
+		-ex: location determines how much of fov it takes up
+	-appearance
+		-representations of situation dependent preperties, analyzed by our awareness of them
+
+Dual aspect desideratum
+	-explains that perceptual consciousness can be characterized by both variant and constancy properties
+
+Range disideratum
+	-explain external mind independent objects, events, can be perceived under a range of perceptual conditions, none of which can be called the "normal" condition		 
+
+Primacy of Constancy Desideratum 
+	-explains in some cases, perceptual systems  
+		-other info here idk	
+
+Consistency desideratum
+	-perceptual content can be consistent despite both variatn and invariant properties in the same object in perceiver's environment
+	-
+
+Views
+	-indirect realism 
+		-we dont perceive objects directly
+		-we perceive objects by other shit 
+	-direct realists
+		-we perceive environment directly 
+		-no intermediate thing between us and stuff we perceive 
+	-phenomenologists
+		-all we have are how things seem to us 
+		-how thing seem to us are a guide to how we should think about nature of theory of perception
+		-we have more than how things seem to use (such as using science)
+
+Framework
+	-when someone is perceptually related to some perceptual properties:
+		-metaphysics: what is nature of properties?
+		-semantics question: what does a perceiver represent?
+		-consciousness: what does perceiver experience?
+
+Situation dependent properties 
+	-perceptual conditions
+		-features of environment that a mind-independent thing is presented
+			-ex: location, lighting, color context, acoustic conditions
+
+Do we have to be aware of perceptual conditions when representing a a situation-dependent thing?
+	-no
+	-can be aware of pull of gravity without being aware of exactly what it is
+	-humans are bad at telling distance well, but very good at noticing if it is coming closer/going away
+		-aware of situational properties (is changing distance), but not aware of perceptual conditions (distance of thing)
+
+A uniformly white wall is illuminated by red light, and we might misperceive it to be intrinsically red. 
+	-we perceive a situation-dependent property, but think it is an intrinsic property
+	-
+
 
 ------------------------------------------------------
 
