@@ -1,3 +1,24 @@
+day 4
+
+Situational perception 
+	-sense where things can appear differently but we perceive it to be the same thing 
+		-ex: a tree farther away looks smaller, but we can recognize it is still large 
+		-ex: light on a white wall has different shades but we still can see the wall is white 
+	-some conditions though we interpret it wrong 
+		-pic of the dress: blue/gold or white/black because the lighting in the picture was right on the edge of what we can make out well 
+	-piano played in concert hall vs on a streetside = we can tell it is a piano despite sound diff 
+
+Variance in properties with perceptual conditions 
+	-invariant: stable across changes
+	-variant: alters with perceptual conditions
+	-what properties are these though? 
+		-properties of consciousness 
+		-properties of environment 
+	
+	
+
+------------------------------------------------------
+
 day 3
 
 What is perspective?
@@ -53,7 +74,7 @@ Types of egocentric info
 
 
 
---------------------
+------------------------------------------------------------
 
 day 2
 
@@ -154,6 +175,8 @@ subjective perspective
 
 
 
---------------------
+------------------------------------------------------------
 
 day 1
+
+gen info

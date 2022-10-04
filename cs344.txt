@@ -1,0 +1,35 @@
+recitation oct 3
+
+performing operations on a binary search tree 
+    all dynamic search ops can be O(h) time 
+        h = O(logn) for balanced tree
+            + also works for tree where nodes are added in random order
+        h = O(n) for unbalanced trees resembling a worst case binary tree 
+
+tree searching 
+    O(h) run time
+    i already know this shit
+
+tree deletion
+    O(h) run time
+
+types of balanced trees
+    - treap: trees + heap
+    - splay: rotate every operation nodes to root, this can be merged
+    - Red black tree: the red and black tree bullshit
+    - AVL tree: absolute height between left and right subtree has to be less than 2
+
+exercise 1
+    -maintain a set to support 3 ops
+        -insert number
+        -delete existing number 
+        -find k-th largest existing number of set
+    -solution: balanced BST 
+        -record subtree size at the root, update when inserting/deleting
+        -find k-th largest
+            -if size of right subtree >= k, then 
+             if size of right subtree == k-1, answer is root
+             otherwise is in left sub
+             recursively use this
+            -complexity: O(logn)
+        
