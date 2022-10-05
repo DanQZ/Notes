@@ -1,3 +1,75 @@
+class oct 5
+
+Expected runtime of quicksort
+
+E[Xab] = P(Xab = 1) = 2/(b-a+1)
+sum(0 to n-1)sum(a+1 to n-1) E[Xab] = sum(0 to n-1)sum(a+1 to n-1, 2/(b-a+1))
+                                    = sum(0 to n-1)sum(c=1 to n-a-1, 2/(c+1))
+                                    <= sum(0 to n-1)sum(0 to n-1, 2/(c+1))
+                                    = 2n * sum(0 to n-1, 1/(c+1)) = 2n * sum(c=1 to n, 1/c)
+
+quicksort vs mergesort
+    - quicksort = expected O(logn), worst case O(n^2)
+    - mergesort = worst O(logn)
+
+why use quicksort?
+    1. quicksort does not need additional space = no extra memory usage
+    2. good cache locality, does not need to frequently access locations that are far away    
+            - all algo comparisons processed in CPU 
+                - has to load values from memory(RAM) into CPU  
+                    - many heirarchies of memory 
+                        - closest to CPU: most expensive but fastest ?
+                        - loading an array element -> cache chunk around element as well
+            - why is mergesort not able to have good locality?
+                - mergesort splits original input into 2 arrays
+                - further splits those 2 arrays, continues to split 
+                - after done splitting, starts merging, each merge needs a new array 
+                - tons of separate arrays means more RAM space taken up by separate values 
+                - 
+
+    3. random selection avoids O(n^2) incredibly easily (would have to be incredibly unlucky to even get close to O(n^2))
+        - if for some reason i REALLY fucking want to avoid worst case
+            - use the select-k "close enough" median value when choosing pivot
+                - requires slightly more RAM
+    
+Majority element problem
+    - given list A, if the element exists, find the element that takes over 50% of the list
+        - if list split into equal sublists, majority element must have at least 1 sublist it has majority in
+        - list 325022224122
+            - 325022 | 224122
+            - 3 25 | 0 22 | 2 24 | 1 22
+            - 3  5   0  2   2  4   1  2
+            -   5      2      4      2
+            -      2              2
+        - runtime O(nlogn)
+        - recurrencce 2T(n/2) + O(n)
+
+proof of this shit 
+    - deterministic
+    - size of list is 2^i 
+    - base case i = 0, 
+    - dude went through slides way too fucking fastest
+
+Majority element problem with randomized algo 
+    - randomly pick number in list
+    - count random number in list 
+    - check if it's majority
+    - repeat until true 
+    - worst case = infinity, possible it never picks real majority element 
+    - expected = O(n)
+        - each attempt has over 50% chance to succeed
+        - each attempt takes n comparisons 
+        - 2 attempts expecteed, n comparisons, = 2n = O(n)
+
+the same fucking problem but using quicksort
+    - if n = 1 return A[0]
+    - partition around random pivot 
+    - after it sorts 50% of the list, probability to pick number from unsorted part is now 50%
+        - whatever number picked, subproblems will be at ??????????????????????????????????????????????
+    - expected O(n), worst O(n^2)
+
+
+--------------------------------------------------------------------------------------------------
 recitation oct 3
 
 performing operations on a binary search tree 
@@ -6,7 +78,7 @@ performing operations on a binary search tree
             + also works for tree where nodes are added in random order
         h = O(n) for unbalanced trees resembling a worst case binary tree 
 
-tree searching 
+tree searching
     O(h) run time
     i already know this shit
 
