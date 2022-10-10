@@ -17,7 +17,7 @@ CHARACTER
 
         AC: 12 (leather armor)
         Initiative: +1
-        Speed: 30ft (Gift of the Depths: 30ft swimming)
+        Speed: 30ft (Gift of the Depths: equal swimming speed)
         Size: Medium
 
         Hit dice: LVLd8
@@ -46,21 +46,6 @@ CHARACTER
         +Light armor proficiency
         +Simple weapon proficiency
 
-    **STUFF**
-        IMPORTANT    
-            +Ring of Spell Storing 
-            +Bag of Holding
-            +Book of Shadows 
-            +Arcane focus
-            +2/4 charges monkey paw adv on roll
-        +Disguise Kit
-        +Atlas
-        +Hurdy Gurdy
-        COMBAT
-            +Handaxe 1d6 slash 
-            +2x Dagger 1d4 pierce 
-            +Leather Armor 11 + dex 
-
     **SPELLS and OTHER ABILITIES**
         FREE PER SHORT REST
             +Ghostly Gaze - 1 min 30ft see thru walls
@@ -87,7 +72,6 @@ CHARACTER
                 DEX save or xd8 fire on enter/start turn, x = 1,2,3,4 for LVL 1,5,11,17 
             +ELDRITCH BLAST 120ft VS
                 xd10 force, x = 1,2,3,4 for LVL 1,5,11,17
-
         LVL 1
             +FAERIE FIRE 60ft, V 
                 20ft cube, on DEX save fail, targets illuminated in light 1 minute
@@ -152,6 +136,22 @@ CHARACTER
                 5ft radius, WIS save, charmed or frightened for 6s
             Misty Escape: PER SHORT REST on damage, reaction
                 tp 60ft to visible spot, invis until next turn
+
+    **STUFF** 
+        REMEMBER 
+            +Ring of Spell Storing 
+            +Bag of Holding
+            +2/4 charges monkey paw adv on roll
+        OTHER
+            +Book of Shadows 
+            +Arcane focus
+            +Disguise Kit
+            +Atlas
+            +Hurdy Gurdy
+        COMBAT
+            +Handaxe 1d6 slash 
+            +2x Dagger 1d4 pierce 
+            +Leather Armor 11 + dex 
 
     LANGUAGES
         +Common 

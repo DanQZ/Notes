@@ -27,17 +27,91 @@ MURDER MYSTERY MINICAMPAIGN
     IMPORTANT: this campaign will require thought and foresight from the players. Character death will not be uncommon in poorly planned operations.
 
 Important characters
-    -The King
+    -The Heir: Sussus Amogus 
+        -assassinated, put city on lockdown
+        -main suspect is Cesare, his brother who is now the heir due to Sussus' death
+    -The King: Rodrigo
         -distrustful of the guild, but maybe you can earn his trust
         -unfathomably powerful, rules over all in the kingdom with near unlimited resouces and manpower
-    -The governor
-        -in charge of the capital city of the kingdom 
-        -also distrustful of the guild but doesn't have any other choice
-    -The guildmaster
-        -extremely intelligent
-        -can give helpful information when asked questions about the city 
-    -The syndicate leader
+    -The Prince: Cesare
+        -in charge of the capital city of the kingdom
+        -known to the guild as very corrupt and selfish
+        -hates the guild but doesn't have any other choice
+    -The captain of the Guard: Haytham
+        -veteran, very intelligent and skilled
+        -in charge of the guard patrols and protocol, general city security
+        -often hires the guild, good relations with the guild
+    -The guildmaster: Al Mualim
+        -very knowledgeable of the city
+        -expert at detective work
+    -The syndicate leader: Jacob
+        -rumored to have been previously in the guild
         -has both cooperated with and fought against the guild before
         -incredible knowledge and control over the city's underbelly
-    -Other guild members
-        -can ask for support on certain tasks, in exchange for gold, favors, or 
+        -nemesis of the captain of the Guard and King
+    -Revelant guild members: 
+        -your team has cooperated with other agents many times in the past
+        -can ask for support on certain tasks, in exchange for gold, favors, or items
+            Altair (investigator) 
+                -psychological profile: adaptive, analytical
+                -expert investigator, best in the guild
+            Ezio (spy/extractor)
+                -psychological profile: creative, loyal
+                -employs gadgetry and tech
+            Connor (extractor)
+                -psychological profile: focused, determined
+                -close quarters combat specialist
+            Edward (extractor)
+                -psychological profile: leader, courageous
+                -demolitions and crowd control
+            Arno (spy)
+                -psychological profile: charming, virtuous
+                -infiltration expert with deception and parkour
+            Evie (investigator/spy)
+                -psychological profile: careful, vigilant
+                -infiltration expert with deception and gadgetry        
+
+ACT 1: Cesare asks for help
+    -Prince Cesare commissions the team to investigate the murder of his brother Sussus Amogus
+    -Reason is because Sussus Amogus was heir to the throne, and Cesare looks extremely suspicious because now he is heir to the throne. Cesare wants to you to find out who really committed the murder.
+
+    PEOPLE WITH INFO
+        -Haytham, captain of the Guard, obvious first person to ask
+            -blackmail with
+                -secret negotiations with the syndicate to keep the peace, despite the King's direct order of wiping them out with an iron fist
+            -known to have poor relations with Sussus Amogus, Sussus would have definitely stripped Brian of his position when he became king
+            -questioning leads to his knowledge about LUCREZIA
+
+        -Princess Lucrezia
+            -blackmail with
+                -illegal incestous relationship with Cesare 
+            -much closer to Prince Cesare than Sussus Amogus
+            -very vocal of how much Cesare is more qualified to rule than Sussus Amogus
+            -questioning leads to her knowledge about the SYNDICATE, JACOB
+
+        -Jacob, syndicate leader 
+            -blackmail with 
+                -proof Jacob was a guild member in the past, which will damage trust and authority he created with other criminals, who have had encounters with the guild
+            -Sussus had been cracking down on organized crime recently, overstepping Cesare's governorship of the capital city.
+            -Might have had Sussus killed due to extreme profit drops
+            -questioning leads to BIGGUS, who owed him money
+        
+        -Biggus Dickus, noble
+            -blackmail with 
+                -proof of illegal imports and exports while working with the syndicate
+            -close friend of Sussus Amogus 
+            -was in extreme debt to the syndicate, debt was cleared because Sussus' will left a substantial amount of treasure to his friend 
+            -questioning leads to REDA, who Biggus knows is currently in the capital, and wants the war to end while Sussus was the heaviest war supporter. Reda might have killed Sussus in order to prevent further loss of life.
+
+        -Reda, enemy diplomat
+            -blackmail with 
+                -no blackmail options
+            -extremely virtuous person
+            -has come to the kingdom capital to negotiate peace agreements
+            -questioning leads to HAYTHAM, who he knows is in the military complex and makes big profits because of the war
+
+ACT 2: Discovery of Cesare's execution date 
+    -After inconclusive investigations, the king has made the decision to execute Cesare for the murder of Sussus, and leaving his third son to be heir. 
+    -Guild members no longer as able to freely communicate with Cesare 
+    -Guildmaster wants to close the investigation as it will now be considered treason to help Cesare 
+    -
