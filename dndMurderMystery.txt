@@ -26,19 +26,44 @@ MURDER MYSTERY MINICAMPAIGN
 
     IMPORTANT: this campaign will require thought and foresight from the players. Character death will not be uncommon in poorly planned operations.
 
-Important places
-    -Guild base 
-        -Al Mualim 
-        -Other guild members 
-        -Weapons and tools  
-    -Royal Castle 
-        -The King
-        -nobility
-    -Royal Barracks 
-        -Haytham
-        -guards
-        -important documents regarding crime and criminal records
-    -
+Important places and what youll find there (safest to least safe)
+    Will actively help you 
+        -Guild base 
+            -Al Mualim 
+            -Other guild members 
+            -Weapons and tools 
+    Guarded by elite royal guards (they will FUCK YOU UP if you fight them)
+        -Royal Castle 
+            -The King 
+            -other royalty and nobility 
+        -Royal Barracks 
+            -Haytham 
+            -city guards 
+            -important documents regarding crime and criminal records 
+        -Foreign embassies 
+            -foreign ambassadors 
+            -royal diplomats 
+        -Royal Wizardry College 
+            -Archmage Ryze 
+            -Magic users and items 
+    Patrolled by city guards
+        -Upper city 
+            -mansions and shit 
+            -nobility 
+        -Markets/middle city 
+            -stores 
+            -normal civilians 
+            -foreign traders
+    Scarcely patrolled by city guards 
+        -City borders 
+            -small villages
+            -farms and shit 
+        -Syndicate base
+            -Jacob 
+            -Syndicate members 
+        -Slums/Lower city
+            -poor civilians 
+            -criminals 
 
 Important characters
     -The Heir: Sussus Amogus 
@@ -56,6 +81,9 @@ Important characters
         -veteran, very intelligent and skilled
         -in charge of the guard patrols and protocol, general city security
         -often hires the guild, good relations with the guild
+    -The Archmage: Ryze 
+        -most powerful wizard in the kingdom
+        -ignores political matters in favor of pursuing arcane knowledge  
     -The Guildmaster: Al Mualim
         -very knowledgeable of the city
         -expert at detective work
@@ -93,6 +121,9 @@ ACT 1: Cesare asks for help
     OJECTIVE: INVESTIGATE SUSSUS AMOGUS' MURDER
 
     People with information
+
+        -Ryze, archmage, casts a spell to 
+
         -Haytham, captain of the Guard, obvious first person to ask
             -blackmail with
                 -secret negotiations with the syndicate to keep the peace, despite the King's direct order of fighting against them 
