@@ -1,3 +1,67 @@
+day 5
+
+Neuroscience
+	-evolved out of combination of neurosurgery and psychology fields 
+	-extremely new science (relative to other fields) 
+	-neurophilosophy: use neuroscience for traditional philosophical questions
+
+Levels of analyzing mental states 
+	-psychological level (mental state)
+		-it is sunny outside 
+		-question of whether AI can even have this?
+	-info processing (computational) 
+		-the info coming into our eyes tells us it is sunny outside
+		-humans and AI can become very similar
+		-like a mousetrap: many ways to do it, but all accomplish the same goal  
+	-neural level (neurons and shit firing off in our brains)
+		-the photons hitting our retinas activates neurons that encodes into info telling us it is sunny outside
+		-humans and AI will be extremely different 
+
+
+1950s: Materialism
+	-interested in physical/neural level
+		-not interested in neuroscientific reserch
+			-Barbara Von Eckardt-Klein was exception
+	-Eliminitive materialism
+		-just fucking ignore the psychological level lol 
+		-get to the info processing level immediately
+		-mental events, states, processes, are false and/or misleading
+			-for example "sun rises" is inaccurate, similar to talking about emotions 
+		-because they are false and/or misleading, it will be replaced by a future neuroscience  
+	-Computational Neuroscience
+		-info comes in = input 
+		-info passed on = output
+
+1970s: Functionalism
+	-hostile to neuroscience, friendly to cognitive science 
+	-cognitive systems can be created in any sort of physical way 
+		-ignores the neural level
+		-as long as a info processing and mental state level exists, how they exist is irrelevant compared to their existence
+
+Personal and Subpersonal properties 
+	-reductive account: reduce mental state to just 2nd or 3rd level (unlikely, implausible)
+	-needto show that personal and subpersonal properties interact 
+		-find bridges between personal and subpersonal properties 
+	-personal states: conscious 
+	-subpersonal states: subconscious 
+
+Neuroscience and AI 
+	-initially AI work was intertwined with neuroscience and psychology
+		-later, interaction between the fields has become less common
+			-both subjects grown enormously in complexity
+			-disciplinary boundaries solidfied
+	-there might be more interaction later 
+		-human brain is only existing proof/example that it is possible to be this smart 
+		-studying animal neural workings shows important aspects of high level intelligence
+			-known algorithms in brain might be translated to a computer brain
+			-neuroscience can validate existing AI techniques
+		
+
+
+-------------------------------------------------------------------------------------
+
+
+
 day 4
 
 Situational perception 
@@ -78,7 +142,9 @@ A uniformly white wall is illuminated by red light, and we might misperceive it 
 	-
 
 
-------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+
+
 
 day 3
 
@@ -135,7 +201,8 @@ Types of egocentric info
 
 
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------
+
 
 day 2
 
