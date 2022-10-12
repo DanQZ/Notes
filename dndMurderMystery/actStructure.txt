@@ -1,0 +1,95 @@
+ACT 1: Cesare asks for help
+    -Prince Cesare commissions the team to investigate the murder of his brother Sussus Amogus
+    -Reason is because Sussus Amogus was heir to the throne, and Cesare looks extremely suspicious because now he is heir to the throne. Cesare wants to you to find out who really committed the murder.
+
+    OJECTIVE: INVESTIGATE SUSSUS AMOGUS' MURDER
+
+    People with information
+
+        -Ryze, archmage, casts a spell to 
+
+        -Haytham, captain of the Guard, obvious first person to ask
+            -blackmail with
+                -secret negotiations with the syndicate to keep the peace, despite the King's direct order of fighting against them 
+            -known to have poor relations with Sussus Amogus, Sussus would have definitely stripped Brian of his position when he became king
+            -questioning leads to his knowledge about LUCREZIA
+
+        -Princess Lucrezia
+            -blackmail with
+                -illegal incestous relationship with Cesare 
+            -much closer to Prince Cesare than Sussus Amogus
+            -very vocal of how much Cesare is more qualified to rule than Sussus Amogus
+            -questioning leads to her knowledge about the SYNDICATE, JACOB, who had dealings with Sussus in the past
+
+        -Jacob, syndicate leader 
+            -blackmail with 
+                -proof Jacob was a guild member in the past, which will damage trust and authority he created with other criminals, who have had encounters with the guild
+            -Sussus had been cracking down on organized crime recently, overstepping Cesare's governorship of the capital city.
+            -Might have had Sussus killed due to extreme profit drops
+            -questioning leads to BIGGUS, who owed Jacob money
+        
+        -Biggus Dickus, noble
+            -blackmail with 
+                -proof of illegal imports and exports while working with the syndicate
+            -good friend of Sussus Amogus 
+            -was in extreme debt to the syndicate, debt was cleared because Sussus' will left a substantial amount of treasure to his friend 
+            -questioning leads to BAYEK, who Biggus knows is currently in the capital, and wants the war to end while Sussus was the heaviest war supporter. BAYEK might have killed Sussus in order to prevent further loss of life.
+
+        -Bayek, enemy diplomat
+            -blackmail with 
+                -no blackmail options available
+            -extremely virtuous person
+            -has come to the kingdom capital to negotiate peace agreements
+            -questioning leads to HAYTHAM, who he knows is in the military complex and makes big profits because of the war
+
+        -Hatham again 
+            -becomes suspicious again due to Reda's evidence, but it is evident that he is not responsible for Sussus' murder
+
+ACT 2: Discovery of Cesare's execution date 
+    -After inconclusive investigations, the king has made the decision to execute Cesare for the murder of Sussus, and leaving his third son to be heir. 
+    -Guild members no longer as able to freely communicate with Cesare 
+    -Guildmaster tells you to no longer execute any overt investigation as it will now be considered treason to publicly help Cesare 
+    -New prime suspect: third son, intially irrelevant, but now is now the heir to the throne
+    -The third son, Brug Ster, is missing
+    OBJECTIVE: FIND AND QUESTION THE THIRD SON 
+        
+        Cesare: can tell you everything already if you check in prison 
+            -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrranical, his brother goes to work on a homestead in a village right outside city borders 
+        
+        Haytham/any nobility: give info the third son often goes missing for weeks at a time before returning back to the castle. Guards might know where he is. Third son is a lover of the arts and nature 
+        
+        Guards: Third son makes them promise not to tell where he is going or when he leaves 
+        
+        Al Mualim/Jacob: rumors of Brug spotted right outside city borders in a farm village up the river
+        
+        Farm village: can investigate the townsfolk, be robbed at night, etc.
+            -tavern: there is a guy who sometimes comes for a few weeks, disappears for extended periods of time
+
+    Brug Ster: The third son 
+        -keeps to himself most of the time 
+        -often goes missing: turns out he enjoys spending time among regular people over socializing with nobility
+        -has not heard of his brother's murder yet
+        -does not want to be king, but is willing 
+        -if persuaded to help, can help gain access to royal castle to let you personally investigate 
+
+    Royal Castle: can break in or have Brug Ster let you in  
+        -the King is out for a few hours to attend an important meeting 
+        -
+
+ACT 3: Discovery the King is responsible for Sussus' murder 
+    -Why did the King assassinate his own son and then condemn his second son to death for it?
+    -OBJECTIVE: QUESTION THE KING
+
+    People the king has connections with 
+        -Nobility
+            - 
+        -Haytham
+            -told you all he knows 
+        -Lucrezia
+            -desperately wants you to save Cesare
+        -Cesare 
+            -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrranical
+
+    -Turns out the King believed his first son, Sussus, was not just but instead extremely cruel and sadistic
+    -King believes Caesar is selfish and would hurt the kingdom's people 
+    -Third son is a very good person in comparison, would rule with kindness and justice

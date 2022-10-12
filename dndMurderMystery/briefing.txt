@@ -1,0 +1,38 @@
+MURDER MYSTERY MINICAMPAIGN
+
+    Setting Overview: entire minicampagin takes place within one very large city, the kingdom's capital. 
+        The Kingdom 
+            -an unremarkable kingdom within the world of DnD, it is currently in a 2 year war with a neighboring kingdom to the south 
+            -majority human population but all sorts of other species also live in it. No significant racism or anything.
+            -operates on a generic feudal lineage based royalty system.
+        The Capital 
+            -the River is a river that runs west to east through the middle of the city, which empties into the ocean. There are 2 bridges that cross it, the west and the east bridge.
+            -the Royal Castle is built on the top of a hill, at the edge of a cliff that resides above and just south of the River that supplies the city with its water. The rest of the city slopes down from the cliff.
+            -upper city, closest to the castle, are where most of the important government buildings and nobility live
+            -the lower city is separated into 2 parts by the river 
+            -the Southside lower city is where the large majority of the civilians live, most daily activities of the city happen here 
+            -the Northside side lower city is the dangerous part of the city that has much highercriminal activity, the organize crime syndicate operates here.
+
+    Plot: All your characters are part of an investigation guild. You guys are a team of highly trained operators, some of the best in the guild. A governor just issued your team a new, very important case.
+
+    Background: All your characters became elite detectives due to your unusual skills. Each operator is only lvl 3, but you get 2 extra feats
+
+    Recommended team composition: at least one of each
+
+    **Spy**
+        -the spy can go deep undercover and gather information from behind enemy lines, or break and enter a guarded building.
+        -spy capabilities: deception, stealth, high maneuverability. High cha and dex
+    **Investigator**
+        -knowledge is power, and the investigator can find out anything about anyone with sufficient evidence. This character can reads emotions, create blackmail, predict movement patterns, etc.
+        -investigator capabilities: investigation (duh), history/arcana knowledge, intimidation, high int and wis
+    **Extractor**
+        -when shit hits the fan, this character can bail out the others through various means
+        -extractor capabilities: crowd control, maneuverability, distraction. High dex/str/whatever makes your character good at throwing people off the trail.
+
+    General tips
+        -Brute force will almost never be the answer. The city's guards and organized crime syndicates are trained and capable, and WILL be able to beat your team in a straight fight. 
+        -You will run more often than you will fight.
+        -Having negative dex is probably a terrible idea.
+        -(house rule) Death is sudden and quick. Both an axe to the head or a knife in the back will both kill in one shot. Friend and foe.
+
+    IMPORTANT: this campaign will require thought and foresight from the players. Character death will not be uncommon in poorly planned operations.
