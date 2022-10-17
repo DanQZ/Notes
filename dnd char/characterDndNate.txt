@@ -1,20 +1,19 @@
 
 CHARACTER
-
     Name: Nate Z'Diem
     Alignment: Chaotic Neutral
     Race: Half Elf
     Background: Entertainer
     Class: Warlock 8
 
-    **STATS**        
-        STR 10
-        DEX 12
-        CON 6
-        INT 6
-        WIS 12 Adv on saves
-        CHA 20 Adv on saves
-
+    **STATS**
+        STR 10 
+        DEX 12 
+        CON 6 
+        INT 6 
+        WIS 12 Adv on saves 
+        CHA 20 Adv on saves 
+        
         AC: 12 (leather armor)
         Initiative: +1
         Speed: 30ft (Gift of the Depths: equal swimming speed)
@@ -48,7 +47,7 @@ CHARACTER
 
     **SPELLS and OTHER ABILITIES**
         FREE PER SHORT REST
-            +Ghostly Gaze - 1 min 30ft see thru walls
+            +Ghostly Gaze - 1 min see 30ft thru walls
             +Misty Escape: on any damage, free Misty Step 60ft bonus action
         FREE PER LONG REST
             +Invisibility VSM
@@ -64,14 +63,14 @@ CHARACTER
             +MAGE HAND 30ft, VS
                 Spectral hand can do shit up to 10lb
             +ACID SPLASH 60ft VS 
-                Up to 2 targets within 5ft of each other. dex save or 1d6 acid
+                Up to 2 targets within 5ft of each other. dex save or 1/2/3/4d6 acid at lvl 1/5/11/17
             +PRESTIDIGITATION
                 Do a small magic trick
             +CREATE BONFIRE 60ft VS 
                 5ft cube of fire
-                DEX save or xd8 fire on enter/start turn, x = 1,2,3,4 for LVL 1,5,11,17 
+                DEX save or 1/2/3/4d8 fire at lvl 1/5/11/17 on enter/start turn 
             +ELDRITCH BLAST 120ft VS
-                xd10 force, x = 1,2,3,4 for LVL 1,5,11,17
+                1/2/3/4d10 force for lvl 1/5/11/17
         LVL 1
             +FAERIE FIRE 60ft, V 
                 20ft cube, on DEX save fail, targets illuminated in light 1 minute
@@ -82,9 +81,9 @@ CHARACTER
                 WIS save or charmed 1h, +1 targets per lvl
         LVL 2
             +INVISIBILITY touch, VS, concentration
-                1h invisible, +1 targets per lvl 
+                1h invisible, +1 targets per lvl
                 Ends on attack/spell cast
-            +MISTY STEP 30ft, bonus, V 
+            +MISTY STEP 30ft, bonus, V
                 Teleport 30ft to visible unoccupied space
             +SUGGESTION 30ft, VM, concentration
                 WIS save or follows sentence or two of non-violent instructions, including triggers, lasts 8 hours
@@ -94,8 +93,7 @@ CHARACTER
             +SUMMON FEY (buffed) 90ft, VSM (free), concentration
                 Summon fey in range, fuming, mirthful, or tricksy mood.
                 Takes turn after me in combat, defaults to dodge action on no command
-
-                Fey Spirit 
+                Fey Spirit Info:
                     AC 12 + spellLVL
                     HP: 30 + 10 per spellLVL above 3
                     Speed: 40ft
@@ -110,12 +108,13 @@ CHARACTER
                             Tricksy: 5ft cube magical darkness, until end of next turn
 
         LVL 4
-            +DIMENSION DOOR 500ft, V 
+            +DIMENSION DOOR 500ft, V {
                 Instant tp to somewhere can visualize, or describe direction + distance
                 Can bring things not exceeding carry weight
                 Can bring 1 willing target within 5ft <= my size
                 Targetting occupied spot, 4d6 force dmg to us
-
+            }
+            
     WARLOCK
         PACT OF THE TOME
             +Book of Shadows
@@ -137,11 +136,13 @@ CHARACTER
             Misty Escape: PER SHORT REST on damage, reaction
                 tp 60ft to visible spot, invis until next turn
 
-    **STUFF** 
+    **STUFF**{
         REMEMBER 
             +Ring of Spell Storing 
             +Bag of Holding
             +2/4 charges monkey paw adv on roll
+            +2 healing pots 
+            +2 greater healing pots 
         OTHER
             +Book of Shadows 
             +Arcane focus
@@ -152,6 +153,7 @@ CHARACTER
             +Handaxe 1d6 slash 
             +2x Dagger 1d4 pierce 
             +Leather Armor 11 + dex 
+    }
 
     LANGUAGES
         +Common 
@@ -162,7 +164,7 @@ CHARACTER
         TRAIT: Loves insults
         IDEAL: The world needs new ideas and more action
         BOND: Someone stole my mom 
-        FLAW: Sucker for a pretty face
+        FLAW: Sucker for a pretty face 
 
     FEATS
         +Shadow Touched: +1 CHA, free Invisibility per long rest
