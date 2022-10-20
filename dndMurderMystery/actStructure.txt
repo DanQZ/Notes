@@ -1,30 +1,30 @@
 ACT 1: Cesare asks for help
-    -Prince Cesare commissions the team to investigate the murder of his brother Sussus Amogus
-    -Reason is because Sussus Amogus was heir to the throne, and Cesare looks extremely suspicious because now he is heir to the throne. Cesare wants to you to find out who really committed the murder.
+    -Prince Cesare commissions the team to investigate the murder of his brother Sussus Amogus 
+    -Reason is because Sussus Amogus was heir to the throne, and Cesare looks extremely suspicious because now he is heir to the throne. Cesare wants to you to find out who 
 
-    OJECTIVE: INVESTIGATE SUSSUS AMOGUS' MURDER
+    People with information 
 
-    People with information
+        -Ryze, archmage, casts a spell to guide player really committed the murder. 
 
-        -Ryze, archmage, casts a spell to 
+    OJECTIVE: INVESTIGATE SUSSUS AMOGUS' MURDERs to Bayek, who apparently knows something important.
 
         -Haytham, captain of the Guard, obvious first person to ask
-            -blackmail with
+            -blackmail with 
                 -secret negotiations with the syndicate to keep the peace, despite the King's direct order of fighting against them 
-            -known to have poor relations with Sussus Amogus, Sussus would have definitely stripped Brian of his position when he became king
-            -questioning leads to his knowledge about LUCREZIA
+            -known to have poor relations with Sussus Amogus, Sussus would have definitely stripped Brian of his position when he became king 
+            -questioning leads to his knowledge about LUCREZIA 
 
-        -Princess Lucrezia
-            -blackmail with
+        -Princess Lucrezia 
+            -blackmail with 
                 -illegal incestous relationship with Cesare 
-            -much closer to Prince Cesare than Sussus Amogus
-            -very vocal of how much Cesare is more qualified to rule than Sussus Amogus
-            -questioning leads to her knowledge about the SYNDICATE, JACOB, who had dealings with Sussus in the past
+            -much closer to Prince Cesare than Sussus Amogus 
+            -very vocal of how much Cesare is more qualified to rule than Sussus Amogus 
+            -questioning leads to her knowledge about the SYNDICATE, JACOB, who had dealings with Sussus in the past 
 
         -Jacob, syndicate leader 
             -blackmail with 
-                -proof Jacob was a guild member in the past, which will damage trust and authority he created with other criminals, who have had encounters with the guild
-            -Sussus had been cracking down on organized crime recently, overstepping Cesare's governorship of the capital city.
+                -proof Jacob was a guild member in the past, which will damage trust and authority he created with other criminal leaders, who have had encounters with the guild
+            -Sussus had been cracking down on organized crime recently, overstepping Cesare's governorship of the capital city. 
             -Might have had Sussus killed due to extreme profit drops
             -questioning leads to BIGGUS, who owed Jacob money
         
@@ -43,7 +43,7 @@ ACT 1: Cesare asks for help
             -questioning leads to HAYTHAM, who he knows is in the military complex and makes big profits because of the war
 
         -Hatham again 
-            -becomes suspicious again due to Reda's evidence, but it is evident that he is not responsible for Sussus' murder
+            -becomes suspicious again due to Bayek's evidence, but it is evident that he is not responsible for Sussus' murder
 
 ACT 2: Discovery of Cesare's execution date 
     -After inconclusive investigations, the king has made the decision to execute Cesare for the murder of Sussus, and leaving his third son to be heir. 
@@ -82,13 +82,19 @@ ACT 3: Discovery the King is responsible for Sussus' murder
 
     People the king has connections with 
         -Nobility
-            - 
+            -
         -Haytham
             -told you all he knows 
         -Lucrezia
             -desperately wants you to save Cesare
         -Cesare 
-            -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrranical
+            -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrannical
+        -Bayek
+            -Bayek: Enemy kingdom is planning a secret attack, ships hidden nearby if peace talks fail 
+                -If expose the king, will have civil unrest. 
+                -Cesare might overthrow Rodrigo, will not end war 
+                -Generals will not listen to Brug, wants to keep Rodrigo in power.
+                -
 
     -Turns out the King believed his first son, Sussus, was not just but instead extremely cruel and sadistic
     -King believes Caesar is selfish and would hurt the kingdom's people 

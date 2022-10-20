@@ -1,10 +1,23 @@
-Important places and what youll find there (safest to least safe)
+Important places and what youll find there (safest to least safe) 
     Will actively help you 
-        -Guild base, guild building located in Southside
+        -Guild base, guild building located in Southside 
             -Al Mualim 
             -Other guild members 
+            -Master inventor Leonardo 
+                -Can make anything within reason 
             -Weapons and tools 
-    Guarded by elite royal guards (they will FUCK YOU UP if you fight them)
+                -All simple weapons available 
+                -Rope 
+                -Frag bombs 
+                -Smoke bombs 
+                -Grappling hooks 
+                -Crowbars 
+                -Masks 
+                -Forged seals 
+                -Lockpicks 
+                -Other spy shit 
+
+    Guarded by elite royal guards (they will FUCK YOU UP if you fight them) 
         -Royal Castle 
             -The King 
             -other royalty and nobility 
@@ -17,12 +30,12 @@ Important places and what youll find there (safest to least safe)
         -Royal Wizardry College 
             -Archmage Ryze 
             -Magic users and items 
-    Patrolled by city guards
+    Patrolled by city guards 
         -Upper city 
             -mansions and shit 
             -nobility 
         -Southside 
-            -stores and markets
+            -stores and markets 
             -normal civilians 
             -foreign traders
     Scarcely patrolled by city guards 
@@ -36,51 +49,51 @@ Important places and what youll find there (safest to least safe)
             -poor civilians 
             -criminals 
 
-Important characters
+Important characters 
     -The Heir: Sussus Amogus 
-        -assassinated, put city on lockdown
-        -main suspect is Cesare, his brother who is now the heir due to Sussus' death
-    -The King: Rodrigo
+        -assassinated, put city on lockdown 
+        -main suspect is Cesare, his brother who is now the heir due to Sussus' death 
+    -The King: Rodrigo 
         -zealously fights against evil 
-        -distrustful of the guild, but maybe you can earn his trust
-        -unfathomably powerful, rules over all in the kingdom with near unlimited resouces and manpower
-    -The Prince: Cesare
-        -in charge of the capital city of the kingdom
-        -known to the guild as very corrupt and selfish
-        -hates the guild but doesn't have any other choice but to ask them for help
-    -The Captain of the Guard: Haytham
-        -veteran, very intelligent and skilled
-        -in charge of the guard patrols and protocol, general city security
-        -often hires the guild, good relations with the guild
+        -distrustful of the guild, but maybe you can earn his trust 
+        -unfathomably powerful, rules over all in the kingdom with near unlimited resouces and manpower 
+    -The Prince: Cesare 
+        -in charge of the capital city of the kingdom 
+        -known to the guild as very corrupt and selfish 
+        -hates the guild but doesn't have any other choice but to ask them for help 
+    -The Captain of the Guard: Haytham 
+        -veteran, very intelligent and skilled 
+        -in charge of the guard patrols and protocol, general city security 
+        -often hires the guild, good relations with the guild 
     -The Archmage: Ryze 
-        -most powerful wizard in the kingdom
-        -usually ignores political matters in favor of pursuing arcane knowledge  
-    -The Guildmaster: Al Mualim
-        -very knowledgeable of the city and the guild
-        -expert at detective work
-    -The Syndicate Leader: Jacob
-        -rumored to have been previously in the guild
-        -has both cooperated with and fought against the guild in the past
-        -incredible knowledge and control over Northside
-        -nemesis of the captain of the Guard and King
+        -most powerful wizard in the kingdom 
+        -usually ignores political matters in favor of pursuing arcane knowledge 
+    -The Guildmaster: Al Mualim 
+        -very knowledgeable of the city and the guild 
+        -expert at detective work 
+    -The Syndicate Leader: Jacob 
+        -rumored to have been previously in the guild 
+        -has both cooperated with and fought against the guild in the past 
+        -incredible knowledge and control over Northside 
+        -nemesis of the captain of the Guard and King 
     -Revelant guild members: 
-        -your team has cooperated with other agents many times in the past
-        -can ask for support on certain tasks, in exchange for gold, favors, or items
+        -your team has cooperated with other agents many times in the past 
+        -can ask for support on certain tasks, in exchange for gold, favors, or items 
             Altair (investigator) 
-                -psychological profile: adaptive, analytical
+                -psychological profile: adaptive, analytical 
                 -expert investigator, smartest person in the guild 
-            Ezio (spy/extractor)
-                -psychological profile: creative, loyal
-                -employs gadgetry and tech
-            Connor (extractor)
-                -psychological profile: focused, determined
-                -close quarters combat specialist
-            Edward (extractor)
-                -psychological profile: leader, courageous
-                -demolitions and crowd control
-            Arno (spy)
-                -psychological profile: charming, virtuous
-                -infiltration expert, charm and parkour
-            Evie (investigator/spy)
-                -psychological profile: careful, vigilant
+            Ezio (spy/extractor) 
+                -psychological profile: creative, loyal 
+                -employs gadgetry and tech 
+            Connor (extractor) 
+                -psychological profile: focused, determined 
+                -close quarters combat specialist 
+            Edward (extractor) 
+                -psychological profile: leader, courageous 
+                -demolitions and crowd control 
+            Arno (spy) 
+                -psychological profile: charming, virtuous 
+                -infiltration expert, charm and parkour 
+            Evie (investigator/spy) 
+                -psychological profile: careful, vigilant 
                 -infiltration expert, deception and gadgetry 
