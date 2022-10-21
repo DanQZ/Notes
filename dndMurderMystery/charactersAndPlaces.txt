@@ -8,14 +8,50 @@ Important places and what youll find there (safest to least safe)
             -Weapons and tools 
                 -All simple weapons available 
                 -Rope 
-                -Frag bombs 
-                -Smoke bombs 
                 -Grappling hooks 
+                    -can affix to edges 
                 -Crowbars 
-                -Masks 
-                -Forged seals 
+                    -can athletics check non-fortified doors 
                 -Lockpicks 
-                -Other spy shit 
+                    -can sleight of hand check locked doors  
+                -Acid vials
+                    -takes 1 minute to melt through small locks, creates lingering smell if used indoors 
+                -Masks
+                    -will hide identity.
+                -Forged seals 
+                    -can deception check with a forged seal.
+                -Sleep dart
+                    -Puts target to sleep for 1 hour. Shot from blowgun.
+                -Caltrops 
+                    -Creates difficult terrain in a 2x2 area
+                Impact grenades
+                    Grenades are tennis ball sized. Without extra bags, can carry 2 of them covertly, and up to 5 overtly.
+                    Grenades have a safety that prevents them from detonating, unless directly dealt damage by something. 
+                    Range: 4 tiles + STR bonus radius without disadvantage. Maximum range 10 tiles + STR bonus. 
+                    Can be thrown at feet with bonus action.
+                    To direct hit, DEX attack vs target's 10+DEX. 
+                        LETHAL 
+                            -Fragmentation 
+                                -2 tile radius, kills unarmored humanoids, frightens all witnesses for 1 turn. Armored humanoids take 2d10 pierce damage.
+                            -Incendiary 
+                                -2 tile radius, starts fire. Instantly ignites any flammable material. Anything starting turn in fire takes 1d10 fire damage. 
+                                -On direct hit, all medium or smaller creatures are completely drenched in burning fuel and die at the end of its next turn. On hit, frightens all witnesses for 1 turn. 
+                            -Blast 
+                                -Very loud, instantly blasts 1 meter hole in non-reinforced walls. (such as wood, or loose bricks)
+                                -1 tile radius, knocks prone all medium or smaller humanoids, and 2 tiles away from the blast origin. Deals 1d10 force damage.
+                                -On direct hit, instantly kills target, gibbing it. Frightens all enemy witnesses for 1 turn.
+                        NON-LETHAL 
+                            -Flash 
+                                -2 tile radius, disadvantage on all attacks and skill checks for 12 seconds (2 turns)
+                            -Smoke 
+                                -3x3 square, blocks LOS. Disadv vs anything within smoke. Uninterrupted, lasts 1 minute indoors, 6 seconds outdoors (1 turn).
+                                -DEX save to not trip and fall prone if dashing into smoke. 
+                            -Glue 
+                                -creates a 3x3 area of difficult terrain.
+                                -On direct hit, adv on attacks vs target, target slowed by half.
+                                -If glue left on someone for 1 minute, they become restrained.
+                                -Can lock doors/windows and shit if glue left on it for 1 minute  
+                    
 
     Guarded by elite royal guards (they will FUCK YOU UP if you fight them) 
         -Royal Castle 
