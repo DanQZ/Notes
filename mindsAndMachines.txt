@@ -1,5 +1,61 @@
+day 7
+
+Essay question options
+	-what does a subjective perspective consist in?
+	-can AI have subjective perspective?
+	-what would it take for ai to have a subjective perspecitve?
+	-is there any diff and what is the subjective perspective of a human and the SP of AI? What are any similarities?
+	-Does Facebook Ego4D program currently concieved teach AI what it is to have a SP? Why or why not?
+	-is the AI which we interac with part of our subpctive perspective?
+
+Levels of analyzing mental states 
+	-Computational level (what/why info is computed)
+		-linguistics
+		-philosophy
+		-anthropology
+	-algorithmic level (info represented/computed)
+		-AI
+		-cog psychology 
+	-implementation level (physical)
+		-cog neuroscience 
+
+-perceptual content slightly different than belief content 
+	-"seeing a blue book" vs "thinking 'that is a blue book'"
+
+Approaches to representational content in neuroscience 
+	-informational
+		-information is never "wrong", representations can misrepresent
+	-functional role
+		-how x affects y is the part that matters 
+	-what unifies psychological and neural properties?
+		-mental representations, physica lparts of things that have semantic properties 
+		-mental reps enter into causal processes 
+		-assumption: system dispositions to move between the two 
+	-mental representation is an object, state, or structure that 
+		-is a distinctive explanatory posit of pyschological sciences 
+			-(brentatno 1874, Fodor 1975, pylyshyn 1984, van gelder 1994, ramsey 2007)
+		-can be implicit and unconscious 
+			-(dennett 1982, davies 2015)
+		-has content aka semantic properties 
+			-(dretske 1981, fodor 1990, schellenberg 2011)
+		-is stimulus independent 
+			-(brentatno 1984, james 1890, pylyshyn 1984, clark and toribio 1994, ramsey 2007, burge 2010, orlandi 2014, gladzeijewski 2015)
+		-is typicallly internal to a system 
+			-(clark and chalmers 1998 disagree)
+	-internalists vs externalists
+		-
+
+
+------------------------------------------------------------
+
+
+
+
+
+
 day 6
 
+fell back asleep after waking up lol
 
 
 
