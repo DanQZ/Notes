@@ -35,7 +35,7 @@ Important places and what youll find there (safest to least safe)
                                 -2 tile radius, kills unarmored humanoids, frightens all witnesses for 1 turn. Armored humanoids take 2d10 pierce damage.
                             -Incendiary 
                                 -2 tile radius, starts fire. Instantly ignites any flammable material. Anything starting turn in fire takes 1d10 fire damage. 
-                                -On direct hit, all medium or smaller creatures are completely drenched in burning fuel and die at the end of its next turn. On hit, frightens all witnesses for 1 turn. 
+                                -On direct hit, all medium or smaller creatures are completely drenched in burning fuel and die at the end of your next turn. On hit, frightens all witnesses for 1 turn. 
                             -Blast 
                                 -Very loud, instantly blasts 1 meter hole in non-reinforced walls. (such as wood, or loose bricks)
                                 -1 tile radius, knocks prone all medium or smaller humanoids, and 2 tiles away from the blast origin. Deals 1d10 force damage.
