@@ -49,11 +49,11 @@ CHARACTER
     SPELL SLOTS: 2/2
     SPELL SAVE: 16 
 
-        FREE PER SHORT REST
+        FREE PER SHORT REST 
             +Ghostly Gaze - action, 1 min, see 30ft thru walls
             +Misty Escape: on any damage, 60ft tp to visible, reaction
-        FREE PER LONG REST
-            +Invisibility VSM
+        FREE PER LONG REST 
+            +Invisibility VSM 
                 1h invisible, +1 targets per lvl above lvl 2
             +Fey Presence
                 1 tile radius, WIS save or charmed/frightened for 6s (1 turn)
@@ -125,9 +125,10 @@ CHARACTER
         INVOCATIONS
             Mask of Many Faces 
                 +Disguise Self at will 
-            Misty Visions
+            Misty Visions 
                 +Silent Image at will
             Gift from the Depths
+                +No speed penalty underwater 
                 +Water Breathing per long rest
                 +Can breath underwater
             Ghostly Gaze
@@ -141,20 +142,20 @@ CHARACTER
     **STUFF**
         REMEMBER 
             +Ring of Spell Storing (4 spells max) (recharges per day)
-                +2 dimension door misty step 
+                +2 dimension door
                 +1 fly 
                 +1 Jims Magic Missile 
             +Bag of Holding
             +2/4 charges monkey paw adv on roll
             +2 healing pots 
             +2 greater healing pots 
-        OTHER
+        OTHER 
             +Book of Shadows 
             +Arcane focus
             +Disguise Kit
             +Atlas
             +Hurdy Gurdy
-        COMBAT
+        COMBAT 
             +Handaxe 1d6 slash 
             +2x Dagger 1d4 pierce 
             +Leather Armor 11 + dex 
