@@ -1,3 +1,75 @@
+day 8 
+
+2nd level: info processing level ideas 
+	-Functionalism 
+		-mental states are multiply realizeable (can be realized in different ways) 
+		-ex1: a mousetrap is anything that responds t oa mouse input with a trapped mouse input 
+			-it does not matter what the trap is made of 
+			-if it produces the same output as another mousetrap, they are functionally the same 
+			-it is a behavioral system  
+		-ex2: vending machine with 3 bottles of coke available 
+			-put in money, output coke 
+			-the internal of machine is a causal structure, so it is not a behavioral kind 
+			-
+		-ex3: hurt your toe 
+			-pain: input is stub toe, output is pain 
+			-relief: input is ice on toe, output is relief 
+	-Representationalism 
+		-mental states require inner representations
+			-if someone believes snow is white, some part of the brain has representational content of that 
+	-Computationalism 
+		-combination of functionalism, representationalism, and the idea the mind is for fulfilling certain computations 
+		-mental processes are computations, algorithmic manipulation of symbols 
+		-not the same as a Turing machine 
+			-Turing machine: AI that can fool you to think it is human 
+			-Turing machine does not need to have the proper causal things 
+	-F vs R vs C 
+		-C includes both F and R 
+		-F and R are separate ideas and do not imply the other 
+	-F counterexample
+		-a machine run by humans inside, that has lights and buttons inside 
+		-humans put cards on board that shows output of the lights 
+		-very simple tasks done to combine to a larger thing  
+		-something like the country of China has the same functional organization as humans = true or false?
+	-Connectionism
+		-currently dominating AI technology 
+		-use neural networks, huge amount of "neurons" process things and assign weights to connections between things 
+		-the weights link neurons together 
+		-ability to learn: facial recognition, grammatical structure 
+		-provide alternative theory to classical theories of mind 
+		-input neurons have activation value, sends value as input to more neurons, they have their own outputs based on inputs 
+		-if connections of something is very weak, has no effect 
+			-example of refrigerator noise: so repetitive and unimportant that we only notice when it stops humming, so we ignore it when processing what noise is important 
+		-assumed all the units calculate the same activation function 
+			-human intelligence must also depend on connection strnegths and activation values 
+		-almost as if it skips 2nd level, all done in physical level (nodes and connections between them)
+	-Reductionism
+		-have a theory/phenom and think it's reduceable to another theory or phenom 
+			-mental state lvl reduceable to neural lvl 
+			-cells reduceable to atoms and stuff
+		-types of reduction 
+			-reduction as translation
+				-if all truths of A can be translated to B, it is reduceable 
+			-reduction of derivation (least flexible)
+				-A reduces to B if all laws of A have been derived from B's laws 
+			-reduction as explanation (most flexible)
+				-A reduces to B when all observations explained by A are also explained by B
+		-what can be reduced to another? 
+			-identification
+				-for every state of the reduceable thing, you can identify it with the other thing 
+			-elimination
+				-
+				
+
+
+
+
+
+
+--------------------------------------------------------------------------
+
+
+
 day 7
 
 Essay question options
