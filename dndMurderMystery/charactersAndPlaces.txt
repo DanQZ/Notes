@@ -49,8 +49,8 @@ Important places and what youll find there (safest to least safe)
                             -Glue 
                                 -creates a 3x3 area of difficult terrain.
                                 -On direct hit, adv on attacks vs target, target slowed by half.
-                                -If glue left on someone for 1 minute, they become restrained.
-                                -Can lock doors/windows and shit if glue left on it for 1 minute  
+                                -If glue left on someone for 1 minute, they become restrained. 
+                                -Can lock doors/windows and shit if glue left on it for 1 minute 
                     
 
     Guarded by elite royal guards (they will FUCK YOU UP if you fight them) 
