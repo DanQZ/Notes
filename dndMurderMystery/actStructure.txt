@@ -32,7 +32,7 @@ ACT 1: Cesare asks for help
                 -Wants to conspire with Southern Kingdom. 
                 -need to kill or help take down to get information out of Jacob 
         
-        -Biggus Dickus, powerful noble
+        -Biggus Dickus, powerful noble 
             -blackmail with 
                 -proof of illegal imports and exports while working with the syndicate 
             -good friend of Sussus Amogus 
@@ -67,33 +67,40 @@ ACT 2: Discovery of Cesare's execution date
         Al Mualim/Jacob: rumors of Brug spotted right outside city borders in a farm village up the river 
         
         Farm village: can investigate the townsfolk, be robbed at night, etc.
-            -tavern: there is a guy who sometimes comes for a few weeks, disappears for extended periods of time
+            -tavern: there is a guy who sometimes comes for a few weeks, disappears for extended periods of time 
 
     Brug Ster: The third son 
         -keeps to himself most of the time 
-        -often goes missing: turns out he enjoys spending time among regular people over socializing with nobility
+        -often goes missing: turns out he enjoys spending time among regular people over socializing with nobility 
         -has not heard of his brother's murder yet 
         -does not want to be king 
-        -if persuaded to help, can help gain acces s to royal castle to let you personally investigate 
+        -if persuaded to help, can help gain access to royal castle to let you personally investigate 
 
-    Royal Castle: can break in or have Brug Ster let you in  
+    IF BRUG IS CONVINCED TO COME BACK WITH YOU 
+        -Sterrick's thugs ambush your group in town in overwhelming force 
+        -kill town guards 
+        -kidnap Brug if fail 
+    ELSE 
+        -Brug stays in town and later is captured by Syndicate members 
+
+    Royal Castle: can break in or have Brug Ster let you in 
         -the King is out for a few hours to attend an important meeting 
         -
 
 ACT 3: Discovery the King is responsible for Sussus' murder 
-    -Why did the King assassinate his own son and then condemn his second son to death for it?
-    -OBJECTIVE: QUESTION THE KING
+    -Why did the King assassinate his own son and then condemn his second son to death for it? 
+    -OBJECTIVE: QUESTION THE KING 
 
     People the king has connections with 
-        -Nobility
+        -Nobility 
             -
-        -Haytham
+        -Haytham 
             -told you all he knows 
         -Lucrezia
-            -desperately wants you to save Cesare
+            -desperately wants you to save Cesare 
         -Cesare 
             -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrannical
-        -Bayek
+        -Bayek 
             -Bayek: Enemy kingdom is planning a secret attack, ships hidden nearby if peace talks fail 
                 -If expose the king, will have civil unrest. 
                 -Cesare might overthrow Rodrigo, will not end war 
