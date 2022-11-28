@@ -1,12 +1,12 @@
 
-CHARACTER
-    Name: Nate Z'Diem
-    Alignment: Chaotic Neutral
-    Race: Half Elf
-    Background: Entertainer
-    Class: Warlock 8
+CHARACTER 
+    Name: Nate Z'Diem 
+    Alignment: Chaotic Neutral 
+    Race: Half Elf 
+    Background: Entertainer 
+    Class: Warlock 8 
 
-    **STATS**
+    **STATS** 
         STR 10 
         DEX 12 
         CON 6 
@@ -14,147 +14,148 @@ CHARACTER
         WIS 12 Adv on saves 
         CHA 20 Adv on saves 
         
-        AC: 12 (leather armor)
-        Initiative: +1
-        Speed: 30ft/6tile (Gift of the Depths: equal swimming speed)
-        Size: Medium
+        AC: 12 (leather armor) 
+        Initiative: +1 
+        Speed: 30ft/6tile (Gift of the Depths: equal swimming speed) 
+        Size: Medium 
 
-        Hit dice: LVLd8
-        HP: 39/39
-        THP: 0
+        Hit dice: LVLd8 
+        HP: 32/39 
+        THP: 0 
         LIVE 0/3 
-        DEATH 0/3
+        DEATH 0/3 
         
-        Gold: 121.61
+        Gold: 921.61 
 
-    **SKILLS**
-        +Acrobatics
-        +Deception - Adv from Actor feat
+    **SKILLS** 
+        +Acrobatics 
+        +Deception - Adv from Actor feat + EXPERTISE 
         +Intimidation 
-        +Performance - Adv from Actor feat
+        +Performance - Adv from Actor feat 
         +Persuasion 
-        +Stealth
+        +Stealth 
 
-    **OTHER**
-        +Darkvision
-        +Adv vs Charm
-        +Immune vs Sleep
-        +Waterbreathing (Gift of the Depths)
+    **OTHER** 
+        +Darkvision 
+        +Adv vs Charm 
+        +Immune vs Sleep 
+        +Waterbreathing (Gift of the Depths) 
         +Can find/do performances in towns 
-        +Light armor proficiency
-        +Simple weapon proficiency
+        +Light armor proficiency 
+        +Simple weapon proficiency 
 
-    **SPELLS and OTHER ABILITIES**
-    SLOT LEVEL: 4
-    SPELL SLOTS: 2/2
-    SPELL SAVE: 16 
+    **SPELLS and OTHER ABILITIES** 
+    LEVEL: 4 
+    SLOTS: 2/2 
+    SAVE: 16 
 
         FREE PER SHORT REST 
-            +Ghostly Gaze - action, 1 min, see 30ft thru walls
-            +Misty Escape: on any damage, 60ft tp to visible, reaction
+            +Ghostly Gaze - action, 1 min, see 30ft thru walls 
+            +Misty Escape: on any damage, 60ft tp to visible, reaction 
         FREE PER LONG REST 
             +Invisibility VSM 
-                1h invisible, +1 targets per lvl above lvl 2
-            +Fey Presence
-                1 tile radius, WIS save or charmed/frightened for 6s (1 turn)
+                1h invisible, +1 targets per lvl above lvl 2 
+            +Fey Presence 
+                1 tile radius, WIS save or charmed/frightened for 6s (1 turn) 
             +Water Breathing VSM 
-                30ft, 10 targets, 24h 
-                
+                30ft radius, 10 targets, 24h 
+
         CANTRIPS 
-            +MESSAGE 120ft/24tile, VSM
-                Only target hears message. Does not need LOS.
-            +MAGE HAND 30ft/6tile, VS
-                Spectral hand can do shit up to 10lb
+            +MESSAGE 120ft/24tile, VSM 
+                Only target hears message. Does not need LOS. 
+            +MAGE HAND 30ft/6tile, VS 
+                Spectral hand can do shit up to 10lb 
             +ACID SPLASH 60ft/12tile VS 
-                Up to 2 targets within 1 tile of each other. dex save or 1/2/3/4d6 acid at lvl 1/5/11/17
-            +PRESTIDIGITATION
-                Do a small magic trick
+                Up to 2 targets within 1 tile of each other. dex save or 1/2/3/4d6 acid at lvl 1/5/11/17 
+            +PRESTIDIGITATION 
+                Do a small magic trick 
             +CREATE BONFIRE 60ft/8tiles VS 
-                5ft/1tile cube of fire
+                5ft/1tile cube of fire 
                 DEX save or 1/2/3/4d8 fire at lvl 1/5/11/17 on enter/start turn 
-            +ELDRITCH BLAST 120ft/24tiles VS
-                1/2/3/4d10 force for lvl 1/5/11/17
-        LVL 1
+            +ELDRITCH BLAST 120ft/24tiles VS 
+                1/2/3/4d10 force for lvl 1/5/11/17 
+        LVL 1 
             +FAERIE FIRE 60ft/8tiles, V 
-                20ft/4tile cube, on DEX save fail, targets illuminated in light 1 minute
-                Adv on attack vs hit targets, targets have 10ft/2tile dim light
-            +SLEEP 90ft/18tile, VSM
+                20ft/4tile cube, on DEX save fail, targets illuminated in light 1 minute 
+                Adv on attack vs hit targets, targets have 10ft/2tile dim light 
+            +SLEEP 90ft/18tile, VSM 
                 5d8 + 2d8 per lvl total HP, 20ft cube area 
             +CHARM PERSON 30ft/6tile, VS 
-                WIS save or charmed 1h, +1 targets per lvl
-        LVL 2
-            +INVISIBILITY touch, VS, concentration
-                1h invisible, +1 targets per lvl
-                Ends on attack/spell cast
-            +MISTY STEP 30ft/6tile, bonus, V
-                Teleport 30ft to visible unoccupied space
-            +SUGGESTION 30ft/6tile, VM, concentration
-                WIS save or follows sentence or two of non-violent instructions, including triggers, lasts 8 hours
-        LVL 3
-            +FLY touch, VSM, concentration
-                10 minutes, 60ft/12tile fly speed, +1 targets per lvl
-            +SUMMON FEY (buffed) 90ft/18tile, VSM (free), concentration
-                Summon fey in range, fuming, mirthful, or tricksy mood.
-                Takes turn after me in combat, defaults to dodge action on no command
-                Fey Spirit Info:
-                    AC 12 + spellLVL
-                    HP: 30 + 10 per spellLVL above 3
-                    Speed: 40ft
-                    STR 13,DEX 16,CON 14,INT 14,WIS 11,CHA 16
-                    Darkvision, sylvan, proficiency = mine
-                    Attacks per turn = spellLVL/2
-                    +Sword, hit += my spellMod, 1d6 + 3 + spellLVL pierce + 1d6 force
+                WIS save or charmed 1h, +1 targets per lvl 
+         LVL 2 
+            +INVISIBILITY touch, VS, concentration 
+                1h invisible, +1 targets per lvl 
+                Ends on attack/spell cast 
+            +MISTY STEP 30ft/6tile, bonus, V 
+                Teleport 30ft to visible unoccupied space 
+            +SUGGESTION 30ft/6tile, VM, concentration 
+                WIS save or follows sentence or two of non-violent instructions, including triggers, lasts 8 hours 
+        LVL 3 
+            +FLY touch, VSM, concentration 
+                10 minutes, 60ft/12tile fly speed, +1 targets per lvl 
+            +SUMMON FEY (buffed) 90ft/18tile, VSM (free), concentration 
+                Summon fey in range, fuming, mirthful, or tricksy mood 
+                Takes turn after me in combat, defaults to dodge action on no command 
+                Fey Spirit Info: 
+                    AC 12 + spellLVL 
+                    HP: 30 + 10 per spellLVL above 3 
+                    Speed: 40ft 
+                    STR 13, DEX 16, CON 14, INT 14, WIS 11, CHA 16 
+                    Darkvision, sylvan, proficiency = mine 
+                    Attacks per turn = spellLVL/2 
+                    +Sword, hit += my spellMod, 1d6 + 3 + spellLVL pierce + 1d6 force 
                     BONUS ACTIONS 
-                        tp 30ft and then,
+                        tp 30ft and then, 
                             Fuming: adv on next attack 
-                            Mirthful: 10ft, wis save vs my DC, charmed by me 1 minute
-                            Tricksy: 5ft cube magical darkness, until end of next turn
+                            Mirthful: 10ft, wis save vs my DC, charmed by me 1 minute 
+                            Tricksy: 5ft cube magical darkness, until end of next turn 
 
-        LVL 4
+        LVL 4 
             +DIMENSION DOOR 500ft/100tile, V 
-                Instant tp to somewhere can visualize, or describe direction + distance
-                Can bring things not exceeding carry weight
-                Can bring 1 willing target within 5ft/1tile <= my size
-                Targetting occupied spot, 4d6 force dmg to us
+                Instant tp to somewhere can visualize, or describe direction + distance 
+                Can bring things not exceeding carry weight 
+                Can bring 1 willing target within 5ft/1tile <= my size 
+                Targetting occupied spot, 4d6 force dmg to us 
 
-    WARLOCK
-        PACT OF THE TOME
-            +Book of Shadows
-            +3 Cantrips
-            IF LOST: 1h ceremony, short/long rest to recover
-        INVOCATIONS
+    WARLOCK 
+        PACT OF THE TOME 
+            +Book of Shadows 
+            +3 Cantrips 
+            IF LOST: 1h ceremony, short/long rest to recover 
+        INVOCATIONS 
             Mask of Many Faces 
                 +Disguise Self at will 
             Misty Visions 
-                +Silent Image at will
-            Gift from the Depths
+                +Silent Image at will 
+            Gift from the Depths 
                 +No speed penalty underwater 
-                +Water Breathing per long rest
-                +Can breath underwater
-            Ghostly Gaze
-                +Action, see through things 30ft 1min, per short rest
-        FAE PATRON
-            Fey Presence
-                5ft/1tile radius, WIS save, charmed or frightened for 6s
-            Misty Escape: PER SHORT REST on damage, reaction
-                tp 60ft/12tile to visible spot, invis until next turn
+                +Water Breathing per long rest 
+                +Can breath underwater 
+            Ghostly Gaze 
+                +Action, see through things 30ft 1min, per short rest 
+        FAE PATRON 
+            Fey Presence 
+                5ft/1tile radius, WIS save, charmed or frightened for 6s 
+            Misty Escape: PER SHORT REST on damage, reaction 
+                tp 60ft/12tile to visible spot, invis until next turn 
 
-    **STUFF**
+    **STUFF** 
         REMEMBER 
-            +Ring of Spell Storing (4 spells max) (recharges per day)
-                +2 dimension door
+            +Cloak of Displacement (disadv on attack rolls vs me, turns off for 1 turn if I am hit) 
+            +Ring of Spell Storing (4 spells max) (recharges per day) 
+                +2 dimension door 
                 +1 fly 
                 +1 Jims Magic Missile 
-            +Bag of Holding
-            +2/4 charges monkey paw adv on roll
+            +Bag of Holding 
+            +2/4 charges monkey paw adv on roll 
             +2 healing pots 
             +2 greater healing pots 
         OTHER 
             +Book of Shadows 
-            +Arcane focus
-            +Disguise Kit
-            +Atlas
-            +Hurdy Gurdy
+            +Arcane focus 
+            +Disguise Kit  
+            +Atlas 
+            +Hurdy Gurdy 
         COMBAT 
             +Handaxe 1d6 slash 
             +2x Dagger 1d4 pierce 
@@ -165,12 +166,13 @@ CHARACTER
         +Elvish 
         +Underdark 
 
-    PERSONALITY
+    PERSONALITY 
         TRAIT: Loves insults 
         IDEAL: The world needs new ideas and more action 
         BOND: Someone stole my mom 
         FLAW: Sucker for a pretty face 
 
-    FEATS
-        +Shadow Touched: +1 CHA, free Invisibility per long rest
-        +Actor: Adv on Deception & Performance, +1 CHA
+    FEATS 
+        +Shadow Touched: +1 CHA, free Invisibility per long rest 
+        +Actor: Adv on Deception & Performance, +1 CHA 
+
