@@ -50,7 +50,7 @@ ACT 1: Cesare asks for help
         -Hatham again 
             -becomes suspicious again due to Bayek's evidence, but it is evident that he is not responsible for Sussus' murder
 
-ACT 2: Discovery of Cesare's execution date 
+ACT 2: City Lockdown and Guild Destruction 
     -After inconclusive investigations, the king has made the decision to execute Cesare for the murder of Sussus, and leaving his third son to be heir. 
     -Guildmaster tells you to no longer execute any overt investigation as it will now be considered treason to publicly help Cesare 
     -New prime suspect: third son, intially irrelevant, but now is now the heir to the throne 
@@ -83,6 +83,18 @@ ACT 2: Discovery of Cesare's execution date
     ELSE 
         -Brug stays in town and later is captured by Syndicate members 
 
+    Coming back to town 
+        -Guild hall raided and destroyed by City, Al Mualim killed, other members on the run 
+            -on King's order because Altair has been convicted of treason
+                -Altair was caught conspiring with Southern Kingdom spy network. 
+        -Haytham ordered to destroy and capture guild members, all guards on alert and hostile by order 
+        -Brug Ster on King's order to come back to the Royal Castle immediately. Has no authority over this decision. 
+    
+    NOT CANON 
+        Kieran will be transported and sold as a slave on a slave ship 
+        Ship sails this afternoon on northside 
+        Action setpiece with Jacob's men 
+
     Royal Castle: can break in or have Brug Ster let you in 
         -the King is out for a few hours to attend an important meeting 
         -
@@ -93,10 +105,10 @@ ACT 3: Discovery the King is responsible for Sussus' murder
 
     People the king has connections with 
         -Nobility 
-            -
+            - 
         -Haytham 
             -told you all he knows 
-        -Lucrezia
+        -Lucrezia 
             -desperately wants you to save Cesare 
         -Cesare 
             -in prison, can tell you the King did not listen to reason and was uncharacteristically tyrannical
@@ -106,7 +118,18 @@ ACT 3: Discovery the King is responsible for Sussus' murder
                 -Cesare might overthrow Rodrigo, will not end war 
                 -Generals will not listen to Brug, wants to keep Rodrigo in power.
                 -
+    
+    -Altair was captured after he discovered King was behind the murder after he conspired with Syndicate splinter group + and Southern Kingdom spies, leading to his arrest. 
+        -Syndicate splinter group turns out to also be working with Southern kingdom spies. They discover evidence of King's plot.
 
-    -Turns out the King believed his first son, Sussus, was not just but instead extremely cruel and sadistic
+    -King is going to die soon from illness. His original plan was to try to correct Sussus' warmongering and cruel nature, because he did not have the time to spend with Sussus in the past when he was focused on making the Kingdom a better place 
+    -Ryze cannot heal the king but rather told the king through divinity magic that Brug Ster would make the most effective and kind king. Foresaw this as best possible outcome on average. 
+    -King believed his first son, Sussus, was too much of a warmonger and cruelty 
     -King believes Caesar is selfish and would hurt the kingdom's people 
-    -Third son is a very good person in comparison, would rule with kindness and justice
+    -Third son is a very good person in comparison, would rule with kindness and justice 
+    -The King as his final act tries to correct the course of history
+    
+    FINAL DECISION:
+        Expose King and the truth and free Cesare? Allow a mediocre king who will make bad decisions in the future. Will continue war with Southern Kingdom, continuing bloodshed and siege on capital.
+        
+        Or keep Brug Ster as heir and build a peaceful prosperous future on a lie? 
