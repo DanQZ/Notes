@@ -14,18 +14,18 @@ CHARACTER
         WIS 12 Adv on saves 
         CHA 20 Adv on saves 
         
-        AC: 12 (leather armor) 
         Initiative: +1 
         Speed: 30ft/6tile (Gift of the Depths: equal swimming speed) 
         Size: Medium 
 
         Hit dice: LVLd8 
+        AC: 12 (leather armor), Cloak of Displacement 
         HP: 32/39 
         THP: 0 
         LIVE 0/3 
         DEATH 0/3 
         
-        Gold: 921.61 
+        Gold: 5921.61 
 
     **SKILLS** 
         +Acrobatics 
@@ -93,7 +93,7 @@ CHARACTER
         LVL 3 
             +FLY touch, VSM, concentration 
                 10 minutes, 60ft/12tile fly speed, +1 targets per lvl 
-            +SUMMON FEY (buffed) 90ft/18tile, VSM (free), concentration 
+            +SUMMON FEY (buffed) 90ft/18tile, VSM (no longer costs gold), concentration 
                 Summon fey in range, fuming, mirthful, or tricksy mood 
                 Takes turn after me in combat, defaults to dodge action on no command 
                 Fey Spirit Info: 
@@ -143,19 +143,26 @@ CHARACTER
         REMEMBER 
             +Cloak of Displacement (disadv on attack rolls vs me, turns off for 1 turn if I am hit) 
             +Ring of Spell Storing (4 spells max) (recharges per day) 
-                +2 dimension door 
-                +1 fly 
-                +1 Jims Magic Missile 
+                +2/2 dimension door 
+                +1/1 fly 
+                +1/1 Jims Magic Missile 
             +Bag of Holding 
             +2/4 charges monkey paw adv on roll 
             +2 healing pots 
             +2 greater healing pots 
+            +Dark Shard Amulet 
+                +
         OTHER 
             +Book of Shadows 
             +Arcane focus 
             +Disguise Kit  
             +Atlas 
             +Hurdy Gurdy 
+            +Flask of Sovereign Glue
+            +Pot of fire giant str
+            +5 (+2 arrows)
+            +Pot of Diminution
+ 
         COMBAT 
             +Handaxe 1d6 slash 
             +2x Dagger 1d4 pierce 

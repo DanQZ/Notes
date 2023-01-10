@@ -76,9 +76,9 @@ Important places and what youll find there (safest to least safe)
             -foreign traders
     Scarcely patrolled by city guards 
         -City borders 
-            -small villages
+            -small villages 
             -farms and shit 
-        -Syndicate base
+        -Syndicate base 
             -Jacob 
             -Syndicate members 
         -Northside 

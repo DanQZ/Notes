@@ -45,7 +45,9 @@ ACT 1: Cesare asks for help
                 -no blackmail options available
             -extremely virtuous person
             -has come to the kingdom capital to negotiate peace agreements
-            -questioning leads to HAYTHAM, who he knows is in the military complex and makes big profits because of the war
+            -info about southern kingdom 
+                -spy network exists 
+                - 
 
         -Hatham again 
             -becomes suspicious again due to Bayek's evidence, but it is evident that he is not responsible for Sussus' murder
@@ -89,15 +91,70 @@ ACT 2: City Lockdown and Guild Destruction
                 -Altair was caught conspiring with Southern Kingdom spy network. 
         -Haytham ordered to destroy and capture guild members, all guards on alert and hostile by order 
         -Brug Ster on King's order to come back to the Royal Castle immediately. Has no authority over this decision. 
-    
-    NOT CANON 
-        Kieran will be transported and sold as a slave on a slave ship 
-        Ship sails this afternoon on northside 
-        Action setpiece with Jacob's men 
 
-    Royal Castle: can break in or have Brug Ster let you in 
-        -the King is out for a few hours to attend an important meeting 
+    Connor tracks down and regroups with some members and a few of them are the ones from the list 
+        -Evie: We should talk to Altair. Something is not right. He would not commit treason for any reason.
+        -Ezio: I want to talk to Altair. He was a good friend and I don't understand why he would commit treason.
+        -Edward: I want revenge on the city for destroying my home and killing my friends. This is uncharacteristic of the king.
+        -Arno: 
+        -Jacob (if convinced that Altair is important enough to talk to): I offer you my services in exchange for the secret Altair must have discovered 
+
+    Track down prison architect
+        -Upper city, stonemason guild member 
         -
+
+    PRISON BREAK 
+    If break into prison to talk to Altair
+        -Altair worked with Southern spies for information 
+        -> concluded King was behind murder of Sussus 
+        -> Argument with Al Mualim, Al Mualim wants to preserve the guild by not leading a suicide crusade to spread the truth, Altair attempts to do so anyway. Got caught by Kingdom agents that were following him from the start because Altair is too dangerous to not keep track of.
+
+    THE ROCK 
+        -entire place surrounded by antimagic circles
+        Main areas (in order) 
+            -Entrance 
+                -Storage 
+                -Guardhouse 
+            -Food court + free area 
+            -Prison cells 
+            -Maximum security 
+
+        Architecture 
+            -Metal ventilation runs through the ceiling, possible to crawl through 
+            -Long open hallways 
+            -Doors all have locks, some are locked and some are not 
+            -Maximum security area has multiple entrances guarded by many guards 
+            -Non prisoner areas often have supply closets: cleaning supplies, clothes, general utilities 
+
+        PHASE 1: ENTERING PRISON 
+            Entrance: big gate with 2 means of entry into the cavern, 2 guard towers at the corners of the walls 
+                -Front door (disguise/trick) 
+                    -hide in supply carts 
+                    -pretend to be guards: force a higher ranking guard to let you in somehow 
+                        -The Syndicate has connections inside, can help you get in and out 
+                        -Haytham can help you get in and out as well 
+                    -pretend to be prisoners: get in and break out later 
+                -Over the side wall (stealth + climb over)
+                -Over the top (some sort of flight + camouflage, or climbing equipment) 
+            Entrance to guardhouse: stairs + minecarts + long stone corridors 
+                Storage: area with rations and clothes and other daily supplies for prisoners 
+                Guardhouse: large barracks area with a tunnel on the side where prisoners enter 
+                    -weapons and supplies 
+                    -highest concentration of guards 
+                    -administrative stuff like records and documents 
+        PHASE 2: ENTERING MAXIMUM SECURITY 
+            Food court: large area where prisoners gather to eat 
+            Free area: Right by the food court, prisoners allowed to roam and exercise and work under guard supervision 
+            Prison cells: huge tunneled area with cells on the side of tunnels. 
+                -At one end of this area is the maximum security cells 
+            Maximum security: 2 entrances, both guarded 
+                -Entrance are the only ways in and out. Unless... 
+        PHASE 3: FINDING ALTAIR 
+            -Altair is in one of the maximum security cells 
+            -Find him. 
+                -Interrogate a guard 
+                -
+
 
 ACT 3: Discovery the King is responsible for Sussus' murder 
     -Why did the King assassinate his own son and then condemn his second son to death for it? 
@@ -105,7 +162,8 @@ ACT 3: Discovery the King is responsible for Sussus' murder
 
     People the king has connections with 
         -Nobility 
-            - 
+            -some confused
+            -most 
         -Haytham 
             -told you all he knows 
         -Lucrezia 
@@ -117,12 +175,10 @@ ACT 3: Discovery the King is responsible for Sussus' murder
                 -If expose the king, will have civil unrest. 
                 -Cesare might overthrow Rodrigo, will not end war 
                 -Generals will not listen to Brug, wants to keep Rodrigo in power.
-                -
-    
-    -Altair was captured after he discovered King was behind the murder after he conspired with Syndicate splinter group + and Southern Kingdom spies, leading to his arrest. 
-        -Syndicate splinter group turns out to also be working with Southern kingdom spies. They discover evidence of King's plot.
+                - 
 
-    -King is going to die soon from illness. His original plan was to try to correct Sussus' warmongering and cruel nature, because he did not have the time to spend with Sussus in the past when he was focused on making the Kingdom a better place 
+    -King in his quest for justice and prosperity for his people made a deal with a devil: power and wisdom in exchange for his own life force and soul. It is now killing him sooner than he expected, before he had the chance to try and connect with Sussus and correct his warmognering path. 
+    -The reason Sussus is cruel is because the King did not have the time to spend with Sussus in the past when he was focused on making the Kingdom a better place.
     -Ryze cannot heal the king but rather told the king through divinity magic that Brug Ster would make the most effective and kind king. Foresaw this as best possible outcome on average. 
     -King believed his first son, Sussus, was too much of a warmonger and cruelty 
     -King believes Caesar is selfish and would hurt the kingdom's people 

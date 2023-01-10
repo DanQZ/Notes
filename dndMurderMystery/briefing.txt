@@ -8,7 +8,7 @@ MURDER MYSTERY MINICAMPAIGN
         The Capital 
             -the River is a river that runs west to east through the middle of the city, which empties into the ocean. There are 2 bridges that cross it, the west and the east bridge.
             -the Royal Castle is built on the top of a hill, at the edge of a cliff that resides above and just south of the River that supplies the city with its water. The rest of the city slopes down from the cliff.
-            -upper city, closest to the castle, are where most of the important government buildings and nobility live
+            -upper city, closest to the castle, are where most of the important government buildings and nobility live 
             -the lower city is separated into 2 parts by the river 
             -the Southside lower city is where the large majority of the civilians live, most daily activities of the city happen here 
             -the Northside side lower city is the dangerous part of the city that has much highercriminal activity, the organize crime syndicate operates here.
